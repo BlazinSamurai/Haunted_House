@@ -3,7 +3,8 @@ import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 // import { Sky } from "three/addons/objects/Sky.js";
 import { Sky } from "three/examples/jsm/objects/Sky.js";
 // import { Timer } from "three/addons/misc/Timer.js";
-import { Timer } from "three/examples/jsm/misc/Timer.js";
+// import { Timer } from "three/examples/jsm/misc/Timer.js";
+import { Timer } from "three/src/misc/Timer.js";
 import GUI from "lil-gui";
 
 /**
