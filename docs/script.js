@@ -5,6 +5,7 @@ import { Sky } from "three/examples/jsm/objects/Sky.js";
 // import { Timer } from "three/addons/misc/Timer.js";
 // import { Timer } from "three/examples/jsm/misc/Timer.js";
 import { Timer } from "three/src/misc/Timer.js";
+// import { Timer } from "../node_modules/three"
 import GUI from "lil-gui";
 
 /**
