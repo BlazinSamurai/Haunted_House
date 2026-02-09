@@ -4,8 +4,8 @@ import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import { Sky } from "three/examples/jsm/objects/Sky.js";
 // import { Timer } from "three/addons/misc/Timer.js";
 // import { Timer } from "three/examples/jsm/misc/Timer.js";
-import { Timer } from "three/src/misc/Timer.js";
-// import { Timer } from "../node_modules/three"
+// import { Timer } from "three/src/misc/Timer.js"; Does file exist?
+import { Timer } from "three/addons/misc/Timer.js";
 import GUI from "lil-gui";
 
 /**
